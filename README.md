@@ -39,17 +39,9 @@
 ### GitHub
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=tkaymutumbi&show_icons=true&hide_border=true&theme=nord&bg_color=2E3440"
-    height="165"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tkaymutumbi&layout=compact&hide_border=true&theme=nord&bg_color=2E3440"
-    height="150"
-  />
+  <a href="https://github.com/tkaymutumbi?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore_my_repositories-2E3440?style=for-the-badge&logo=github&logoColor=88C0D0" />
+  </a>
 </p>
 
 ---
